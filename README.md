@@ -1,6 +1,6 @@
 - 👋 Saludos soy el humilde Claudio Ruiz
 - 👨‍💻 Soy Software Engineer, developer, analista y gordito
-- 👴 10 años de experiencia en Dot Net, json, xml, javascript, python, C#
+- 👴 10 años de experiencia en Dot Net, json, xml, javascript, python, C# y dolores de cabezas
 - 💞️ Casado 
 - ✉  claudio.m.ruiz.h@gmail.com
 - 👾 Maestro en Pokénom Go => 2771 9474 0880
